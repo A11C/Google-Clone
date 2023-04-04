@@ -1,13 +1,15 @@
 body {
   box-sizing: border-box;
-  height: 710px;
+  height: 890px;
   margin: 0px;
+  font-family: Roboto;
 }
 
 header {
   display: flex;
   flex-flow: row nowrap;  
-  justify-content: flex-end;  
+  justify-content: flex-end;
+  align-items: center;  
   padding: 1em;
   height: 10%;
 }
